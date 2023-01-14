@@ -5,3 +5,11 @@
 
 In this program new library that is used is :  
 1) hvplot.pandas
+
+Below are the key functionalities developed in this program:  
+1) Calculate and Plot the Housing Units per Year  
+2) Calculate and Plot the Average Sale Prices per Square Foot  
+3) Compare the Average Sale Prices by Neighborhood  
+4) Build an Interactive Neighborhood Map  
+
+
